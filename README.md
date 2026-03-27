@@ -1,10 +1,10 @@
-# 🚀 Sistema de Telemetria e Verificação de Decolagem
+#  Sistema de Telemetria e Verificação de Decolagem
 
 Este projeto é um simulador de controle de missão desenvolvido em **Python** para a atividade integradora da **FIAP**. O objetivo é analisar dados de telemetria em tempo real (temperatura, pressão, energia e sistemas críticos) para autorizar ou abortar a decolagem de uma aeronave/foguete com base em protocolos de segurança e integridade estrutural.
 
 ---
 
-## 🛠️ Funcionalidades e Regras de Negócio
+##  Funcionalidades e Regras de Negócio
 
 O sistema realiza o processamento de dados brutos para gerar indicadores inteligentes de decisão:
 
