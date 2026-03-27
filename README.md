@@ -27,21 +27,6 @@ O sistema realiza o processamento de dados brutos para gerar indicadores intelig
 
 ---
 
-##  Como Executar o Projeto
-
-1.  **Pré-requisitos:** Certifique-se de ter o **Python 3.x** instalado.
-2.  **Clonar o Repositório:**
-    ```bash
-    git clone [https://github.com/x864dev/sistema-telemetria-decolagem.git](https://github.com/x864dev/sistema-telemetria-decolagem.git)
-    ```
-3.  **Executar o Script:**
-    Navegue até a pasta do projeto e execute:
-    ```bash
-    python script.py
-    ```
-4.  **Interação:** Insira os valores de telemetria solicitados no terminal para receber o relatório final de prontidão.
-
----
 
 ##  Estrutura do Código
 
