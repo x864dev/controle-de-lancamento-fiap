@@ -31,7 +31,7 @@ O sistema realiza o processamento de dados brutos para gerar indicadores intelig
 
 Abaixo está a representação visual da lógica de decisão do sistema, desenhada no Miro.
 
-![Fluxograma de Decolagem Aeroespacial](prints/fluxograma.png)
+![Fluxograma de Decolagem Aeroespacial](prints/Fluxograma.png)
 
 ---
 
@@ -45,7 +45,7 @@ Neste cenário, todos os parâmetros estão dentro das faixas seguras.
 ### Exemplo 2: Decolagem Abortada (Falha)
 Neste cenário, inserimos valores propositalmente errados (como pressão alta ou baixo nível de energia) para testar o sistema de segurança.
 
-![Print do console mostrando motivos do aborto da missão](falha.png)
+![Print do console mostrando motivos do aborto da missão](prints/falha.png)
 
 ---
 
