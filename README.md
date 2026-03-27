@@ -60,11 +60,6 @@ O script utiliza uma arquitetura de **Processamento em Lote**:
 ---
 
 ## 🧑‍💻 Autor
-  [Link para seu Perfil no GitHub](https://github.com/x864dev)]
+  [(https://github.com/x864dev)]
 * **Instituição:** FIAP (Atividade Integradora)
 
----
-**Referências:**
-* NASA Systems Engineering Handbook.
-* Documentação Oficial Python 3.12.
-* ISO 5807 (Simbologia de Fluxogramas).
