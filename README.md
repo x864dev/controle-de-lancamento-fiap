@@ -15,7 +15,7 @@ O sistema realiza o processamento de dados brutos para gerar indicadores intelig
 
 ---
 
-## 📊 Parâmetros de Segurança (Limites Críticos)
+##  Parâmetros de Segurança (Limites Críticos)
 
 | Parâmetro | Faixa Segura / Condição |
 | :--- | :--- |
@@ -27,7 +27,7 @@ O sistema realiza o processamento de dados brutos para gerar indicadores intelig
 
 ---
 
-## 💻 Como Executar o Projeto
+##  Como Executar o Projeto
 
 1.  **Pré-requisitos:** Certifique-se de ter o **Python 3.x** instalado.
 2.  **Clonar o Repositório:**
@@ -43,7 +43,7 @@ O sistema realiza o processamento de dados brutos para gerar indicadores intelig
 
 ---
 
-## 📝 Estrutura do Código
+##  Estrutura do Código
 
 O script utiliza uma arquitetura de **Processamento em Lote**:
 1.  **Entrada:** Captura manual de dados via `input()` com conversão para `float`.
