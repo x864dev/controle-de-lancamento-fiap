@@ -60,6 +60,6 @@ O script utiliza uma arquitetura de **Processamento em Lote**:
 ---
 
 ## 🧑‍💻 Autor
-  https://github.com/x864dev
+  https://github.com/amagalhaesdev
 * **Instituição:** FIAP (Atividade Integradora)
 
